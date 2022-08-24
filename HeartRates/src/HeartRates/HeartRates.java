@@ -11,7 +11,7 @@ public class HeartRates {
 		System.out.print("Insira seu nome: ");
 		String nome = in1.nextLine();
 		
-		System.out.print("Insira seu nome: ");
+		System.out.print("Insira seu sobrenome: ");
 		String sobrenome = in1.nextLine();
 		System.out.println("Seu nome eh: " + nome + " " + sobrenome);
 		Calendar cal = GregorianCalendar.getInstance();
